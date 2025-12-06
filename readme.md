@@ -77,7 +77,7 @@ let sum4 = (num1, num2) => {
 }
 sum4(6,8);
 ```
-There is no stand-alone concept of just "Arrow Function", it's alway "Arrow Function Expression"!
+There is no stand-alone concept of just "Arrow Function", it's always "Arrow Function Expression"!
 
 
 
