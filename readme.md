@@ -38,10 +38,10 @@ function sum_1(num1, num2) {     // Only "Function Declaration" for the hoisted 
 ```
 
 ## 1. Function EXPRESSIONS (Non-Hoisted): In which a function is put in a variable except IIFE.
-     A. ANONYMOUS Function Expression.
-     B. NAMED Function Expression.
-     C. ARROW Function Expression.
-     D. Immediatelly Invoked Function Expression.
+    * A. ANONYMOUS Function Expression.
+    * B. NAMED Function Expression.
+    * C. ARROW Function Expression.
+    * D. Immediatelly Invoked Function Expression.
 
 
 
