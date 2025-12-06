@@ -26,7 +26,7 @@ Keypoiny: All the OLD METHODS of Variable(var), Function(Normal Function Declara
 
 ---
 
-## 1. NORMAL Function (Hoisted)
+### 1. NORMAL Function (Hoisted)
 
 ```
 sum_1(5, 5);    // Benefit of a hosted function that you can use the function even before the function declaration
@@ -37,11 +37,11 @@ function sum_1(num1, num2) {     // Only "Function Declaration" for the hoisted 
 };
 ```
 
-## 1. Function EXPRESSIONS (Non-Hoisted): In which a function is put in a variable except IIFE.
-    * A. ANONYMOUS Function Expression.
-    * B. NAMED Function Expression.
-    * C. ARROW Function Expression.
-    * D. Immediatelly Invoked Function Expression.
+1. Function EXPRESSIONS (Non-Hoisted): In which a function is put in a variable except IIFE.
+    1. ANONYMOUS Function Expression.
+    2. NAMED Function Expression.
+    3. ARROW Function Expression.
+    4. Immediatelly Invoked Function Expression.
 
 
 
