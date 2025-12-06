@@ -14,11 +14,10 @@ function add(num) {
     sum1 = num1 + num2; 
 }
 ```
-  IMPORTANT: Here "sum1" will create a GLOBAL VARIABLE, that will work even outside the function scope, 
-  Which later-on can create conflicts!
-  And YES! It is possible to create a variable in JS without let/var/const, but only in "NON-STRICT" mode.
----
+- IMPORTANT: Here "sum1" will create a GLOBAL VARIABLE, that will work even outside the function scope, Which later-on can create conflicts!
+- And YES! It is possible to create a variable in JS without let/var/const, but only in "NON-STRICT" mode.
 
+---
 
 ## HOISTING
 
