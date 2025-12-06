@@ -1,4 +1,4 @@
-# FUNCTIONS AND THE TYPES
+# FUNCTIONS, Types of Function Expressions, HOISTING and "USE STRICT" KEYWORD
 
 
 ---
